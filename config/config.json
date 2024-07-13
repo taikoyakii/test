@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x2100AF5dD8d466499a1576C7CF6F760bA363BEc1",
+  "CONTRACT_ADDRESS": "0x2100af5dd8d466499a1576c7cf6f760ba363bec1",
   "SCAN_LINK": "https://taikoscan.io/address/0x2100af5dd8d466499a1576c7cf6f760ba363bec1",
   "NETWORK": {
     "NAME": "Taiko",
     "SYMBOL": "ETH",
     "ID": 167000
   },
-  "NFT_NAME": "BaseKey",
-  "SYMBOL": "Key",
-  "MAX_SUPPLY": 10000,
+  "NFT_NAME": "Taikoyaki",
+  "SYMBOL": "Taikoyaki",
+  "MAX_SUPPLY": 1000,
   "WEI_COST": 369000000000000,
-  "DISPLAY_COST": 0.0003690,
+  "DISPLAY_COST": 0.000369,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/basekey",
+  "MARKETPLACE": "SOON",
+  "MARKETPLACE_LINK": "",
   "SHOW_BACKGROUND": true
 }
